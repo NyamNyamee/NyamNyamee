@@ -33,6 +33,7 @@ Here are some ideas to get you started:
 ![Python](https://img.shields.io/badge/-Python%20-747?style=flat&logo=Python)
 ![Selenium](https://img.shields.io/badge/-Selenium%20-747?style=flat&logo=Selenium)
 ![Mysql](https://img.shields.io/badge/-Mysql%20-747?style=flat&logo=Mysql)
+![GraphQL](https://img.shields.io/badge/-GraphQL%20-747?style=flat&logo=GraphQL)
 ![Git](https://img.shields.io/badge/-Git%20-747?style=flat&logo=Git)
 
 <h2>Contact</h2>
