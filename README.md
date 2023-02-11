@@ -39,5 +39,5 @@ Here are some ideas to get you started:
 <h2>Contact</h2>
 
 <p>
-   jopelee2@gamil.com
+   jopelee2@gmail.com
 </p>
